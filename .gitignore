@@ -1,0 +1,11 @@
+# Các thư mục và tệp liên quan đến Vagrant
+.vagrant/
+*.box
+*.vdi
+
+# Thư mục chứa các tệp tạm thời và các bản ghi khác
+*.log
+*.bak
+
+# Các tệp cấu hình không cần thiết cho repo
+*.swp
